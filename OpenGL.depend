@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1547727193 source:d:\teaching\july 2018\cse 410\ray tracing\opengl_codeblocks\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<iostream>
+	"bitmap_image.hpp"
+	<windows.h>
+	<glut.h>
+
+1547275268 d:\teaching\july 2018\cse 410\ray tracing\opengl_codeblocks\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1545710763 d:\teaching\july 2018\cse 410\ray tracing\opengl_codeblocks\opengl_codeblocks\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1571733645 source:d:\teaching\july 2018\cse 410\fractals\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<iostream>
+	"bitmap_image.hpp"
+	<windows.h>
+	<glut.h>
+
+1545710763 d:\teaching\july 2018\cse 410\fractals\opengl_codeblocks\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1547275268 d:\teaching\july 2018\cse 410\fractals\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
